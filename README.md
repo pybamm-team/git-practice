@@ -9,3 +9,5 @@
 ## Team 4 - Heat of mixing
 
 ## Team 5 - Initial SOC from model states
+
+- Rob: I love watching Catchphrase
