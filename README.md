@@ -3,6 +3,7 @@
 ## Team 2 - Experiment class
 
 - Valentin: I was born in France
+- Mayur: "Hell World" that's how it all started!!
 
 ## Team 3 - Tortuosity models
 
