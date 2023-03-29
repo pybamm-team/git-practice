@@ -5,6 +5,7 @@
 - Valentin: I was born in France
 
 ## Team 3 - Tortuosity models
+- Tom: I was born in the 80s
 
 ## Team 4 - Heat of mixing
 
