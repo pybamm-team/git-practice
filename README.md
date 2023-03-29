@@ -8,4 +8,6 @@
 
 ## Team 4 - Heat of mixing
 
+- Ivan
+
 ## Team 5 - Initial SOC from model states
