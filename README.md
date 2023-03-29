@@ -8,6 +8,7 @@
 
 ## Team 4 - Heat of mixing
 - Alec: Before graduate school, I was a professional whitewater guide
+- Andres
 - Ferran: I used to play bagpipes
 - Ivan: One of the co-authors of the paper
 - Alexis: Actually from France
