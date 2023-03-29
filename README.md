@@ -7,6 +7,8 @@
 ## Team 3 - Tortuosity models
 - Tom: I was born in the 80s
 
+Isaac Squires: I love tortuous paths
+
 ## Team 4 - Heat of mixing
 
 ## Team 5 - Initial SOC from model states
