@@ -2,6 +2,8 @@
 
 ## Team 2 - Experiment class
 
+- Valentin: I was born in France
+
 ## Team 3 - Tortuosity models
 
 ## Team 4 - Heat of mixing
