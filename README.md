@@ -3,6 +3,7 @@
 ## Team 2 - Experiment class
 
 - Valentin: I was born in France
+- Jon: I live in Oxford, but am from Yorkshire
 
 ## Team 3 - Tortuosity models
 
