@@ -5,6 +5,7 @@
 - Valentin: I was born in France
 
 ## Team 3 - Tortuosity models
+Tom M: I was born in Tennessee, USA
 - Tom: I was born in the 80s
 
 Isaac Squires: I love tortuous paths
