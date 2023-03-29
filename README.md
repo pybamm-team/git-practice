@@ -1,5 +1,7 @@
 ## Team 1 - Experimental data class
 
+- Brady: I'm Canadian 
+
 ## Team 2 - Experiment class
 
 - Valentin: I was born in France
