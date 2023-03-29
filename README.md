@@ -1,4 +1,5 @@
 ## Team 1 - Experimental data class
+-valentin: Yongxiu
 
 ## Team 2 - Experiment class
 
