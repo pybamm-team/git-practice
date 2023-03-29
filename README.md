@@ -1,5 +1,5 @@
 ## Team 1 - Experimental data class
--valentin: Yongxiu
+- Yongxiu: Birmingham
 
 ## Team 2 - Experiment class
 
