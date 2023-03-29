@@ -1,4 +1,5 @@
 ## Team 1 - Experimental data class
+- Jan Petter: I come from a farm that had about 100 sheeps
 
 ## Team 2 - Experiment class
 
