@@ -7,3 +7,4 @@
 ## Team 4 - Heat of mixing
 
 ## Team 5 - Initial SOC from model states
+- Raghuram Shankar
