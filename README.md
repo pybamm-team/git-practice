@@ -3,6 +3,7 @@
 ## Team 2 - Experiment class
 
 - Valentin: I was born in France
+- Ruihe: I was born in China
 
 ## Team 3 - Tortuosity models
 
