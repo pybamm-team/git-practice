@@ -3,7 +3,7 @@
 - Marcus: I can do the splits
 - Martin: I'm an aussie who brought his 3 cats across from Australia.
 - Gabe: I was born in the United States
-
+- Brady: I'm Canadian 
 
 ## Team 2 - Experiment class
 
