@@ -37,3 +37,9 @@ Isaac Squires: I love tortuous paths
 - Smita 
 
 ## Team 5 - Initial SOC from model states
+- Mingzhao Zhuo
+- Steve Kench 
+- Raghuram Shankar
+- Simon O'Kane (lead): training to be a PyBaMM core developer
+- Rob Timms: I love watching Catchphrase
+- Ganesh Madabatulla
