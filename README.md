@@ -8,5 +8,6 @@
 
 ## Team 4 - Heat of mixing
 - Alec: Before graduate school, I was a professional whitewater guide
+- Ivan: One of the co-authors of the paper
 
 ## Team 5 - Initial SOC from model states
