@@ -1,5 +1,7 @@
 ## Team 1 - Experimental data class
 
+- Martin: I'm an aussie who brought his 3 cats across from Australia.
+
 ## Team 2 - Experiment class
 
 - Valentin: I was born in France
